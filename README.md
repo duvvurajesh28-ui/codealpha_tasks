@@ -5,5 +5,6 @@ Projects
 Hangman Game
 Stock Portfolio Tracker
 Basic Chatbot
+
 Developed By
-Harshini Potluri
+Duvvu Rajesh
